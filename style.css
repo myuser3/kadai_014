@@ -1,1 +1,10 @@
 @charset "utf-8"
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center; /* 忘れていた箇所 */
+}
+
+h1 {
+  font-family: ”Josefin Sans”;
+}
