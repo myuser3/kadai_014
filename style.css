@@ -9,8 +9,8 @@ body {
 h1 {
   font-family: ”Josefin Sans”;
   font-size: 2em;
-  text-shadow: 3px yellow; /* */
-  letter-spacing: 1.2em /* */
+  text-shadow: 3px 4px yellow; /* */
+  letter-spacing: 1.2em; /* */
   border-bottom: solid 3px rgb(115, 115, 114);
 }
 
