@@ -1,10 +1,27 @@
-@charset "utf-8"
+@charset "utf-8";
 
 body {
   font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
   text-align: center; /* 忘れていた箇所 */
 }
 
 h1 {
   font-family: ”Josefin Sans”;
+  font-size: 2em;
+  letter-spacing: 1.2em /* */
+  border-bottom: solid 3px rgb(115, 115, 114); /* */
+  text-shadow: 3px yellow; /* */
+}
+
+#intro > h2 {
+  font-wight: bold; /* */
+}
+
+.skyblue {
+  color: skyblue; 
+}
+
+.pink {
+  color: rgb(255, 192, 203);
 }
